@@ -1,0 +1,1 @@
+#esta é a pasta main, não mexa nela, ela será todo o sistema nervoso do código''
