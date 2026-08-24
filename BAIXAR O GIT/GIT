@@ -1,0 +1,42 @@
+========================================
+INSTALAÇÃO DO GIT PORTABLE - WINDOWS
+========================================
+
+1. Baixe o Git Portable:
+https://git-scm.com/install/windows
+
+Escolha:
+Git for Windows/x64 Portable
+
+2. Execute o arquivo baixado.
+
+3. Escolha uma pasta para extrair o Git.
+   Exemplo:
+   C:\Users\SEU_NOME\Git
+
+4. Abra a pasta onde o Git foi extraído.
+
+5. Execute:
+   git-bash.exe
+
+6. Para verificar se funcionou, digite:
+
+   git --version
+
+   Se aparecer a versão do Git, está funcionando.
+
+========================================
+PRIMEIRO ACESSO AO PROJETO
+========================================
+
+7. No Git Bash, vá até onde deseja salvar o projeto.
+
+8. Baixe o projeto:
+
+   git clone LINK_DO_REPOSITORIO
+
+9. Entre na pasta:
+
+   cd RPG-DUNGEON-SUPERELETIVA
+
+10. Agora você já pode trabalhar no projeto.
